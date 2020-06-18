@@ -1,0 +1,14 @@
+Introduction to Docker
+
+1. Create account at https://hub.docker.com/
+Remember id and password
+
+2. Download and install Docker desktop
+https://hub.docker.com/?overlay=onboarding
+
+https://docs.docker.com/docker-for-windows/install/
+
+3. In the command line run:
+> docker version
+> docker info
+

@@ -1,0 +1,7 @@
+Lab 7.
+
+Docker Compose with Visual Studio
+https://docs.microsoft.com/en-us/visualstudio/containers/tutorial-multicontainer?view=vs-2019
+
+https://github.com/docker/labs/blob/master/windows/windows-containers/MultiContainerApp.md
+

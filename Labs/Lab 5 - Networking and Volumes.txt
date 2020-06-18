@@ -1,0 +1,16 @@
+Lab 5.
+
+Note: make sure you are running Linux containers
+Use Docker Desktop context menu from the system tray to switch between linux and windows containers
+
+Part 1.
+http://dockerlabs.collabnix.com/beginners/volume/managing-volumes-via-docker-cli.html
+
+Part 2.
+http://dockerlabs.collabnix.com/beginners/volume/Creating-Volume-with-alphine.html
+
+Part 3. 
+https://github.com/docker/labs/blob/master/networking/A1-network-basics.md
+
+Part 4.
+https://github.com/docker/labs/blob/master/networking/A2-bridge-networking.md

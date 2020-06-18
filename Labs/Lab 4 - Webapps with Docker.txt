@@ -1,0 +1,4 @@
+2.0 Webapps with Docker
+
+Follow the instructions 2.1 and 2.2
+https://github.com/docker/labs/blob/master/beginner/chapters/webapps.md

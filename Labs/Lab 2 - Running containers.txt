@@ -1,0 +1,16 @@
+Lab 2. Running containers
+
+Part 1
+Note: make sure you are running Linux containers
+Use Docker Desktop context menu from the system tray to switch between linux and windows containers
+
+1.0 Running your first container
+https://github.com/docker/labs/blob/master/beginner/chapters/alpine.md
+
+
+
+Part 2
+Note: make sure you are running Windows containers
+
+Getting Started with Windows Containers
+https://github.com/docker/labs/blob/master/windows/windows-containers/WindowsContainers.md
